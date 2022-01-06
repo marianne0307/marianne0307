@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marianne0307.
+- 👀 I’m interested in Cognitive Sciences.
+- 🌱 I’m currently learning C# for Unity and R for my research.
